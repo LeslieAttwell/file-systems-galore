@@ -8,4 +8,5 @@ In this space I will list file systems that intrique me for what ever reason and
 
 ## THE LIST
 * [LizardFS](https://lizardfs.com)
-
+* [Interplanetary File System - IPFS](https://ipfs.io)
+* [Gluster](https://www.gluster.org)
