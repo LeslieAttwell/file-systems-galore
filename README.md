@@ -9,5 +9,5 @@ In this space I will list file systems that intrique me for what ever reason and
 ## THE LIST
 * [LizardFS](https://lizardfs.com)
 * [Interplanetary File System - IPFS](https://ipfs.io)
-* [Go impl. of IpFS](https://github.com/ipfs/go-ipfs)
+* [Go impl. of IPFS](https://github.com/ipfs/go-ipfs)
 * [Gluster](https://www.gluster.org)
